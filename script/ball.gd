@@ -15,8 +15,9 @@ func _ready():
 #	pass
 
 func _input(event):
-	if event is InputEventScreenTouch:
+	if event is InputEventMouseButton:
+		
 		print("Touch")
-	elif event is InputEventMouseButton:
-		print("TouchDrag")
+	elif event is InputEventMouseMotion:
+			print(region_rect)
 

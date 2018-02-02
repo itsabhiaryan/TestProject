@@ -14,6 +14,11 @@ config/name="TestProject"
 run/main_scene="res://scene/First.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=512
+window/size/height=300
+
 [rendering]
 
 environment/default_environment="res://default_env.tres"

@@ -7,7 +7,7 @@
 
 [node name="icon" type="Sprite" parent="." index="0"]
 
-position = Vector2( 587.386, 332.651 )
+position = Vector2( 340.386, 170 )
 texture = ExtResource( 1 )
 script = ExtResource( 2 )
 
