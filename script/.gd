@@ -1,4 +1,4 @@
-extends Sprite
+extends Area2D
 
 # class member variables go here, for example:
 # var a = 2
@@ -14,15 +14,4 @@ func _ready():
 #	# Update game logic here.
 #	pass
 
-func _input(event):
-	#if event is InputEventMouseButton:
-		#print("Touch")
-	#elif event is InputEventMouseMotion:
-			#print("Drag")
-	pass		
-			
-func _input_event(viewport, event, shape_idx):
-	if event is InputEventMouseMotion:
-		if(event.is_pressed()):
-			print("Clicked")			
 
