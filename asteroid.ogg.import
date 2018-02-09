@@ -1,0 +1,18 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/asteroid.ogg-c21619dde3db666640bd0f3027846ae1.oggstr"
+
+[deps]
+
+source_file="res://asteroid.ogg"
+source_md5="ff83bebbcb13116483ff78ee06725144"
+
+dest_files=[ "res://.import/asteroid.ogg-c21619dde3db666640bd0f3027846ae1.oggstr" ]
+dest_md5="5b588818e8bf17b9dc6b9c4e1e92bcfc"
+
+[params]
+
+loop=false
+loop_offset=0
